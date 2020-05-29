@@ -1,4 +1,4 @@
-# STUDENT-LOGIN-SYSTEM-2
+# STUDENT-LOGIN-SYSTEM
 It store student information in Qracle database. We can change a user Password by using its email developed using java window programming and jdbc
 
 
